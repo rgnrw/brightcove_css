@@ -37,13 +37,13 @@
 
  .video-js .vjs-control-bar {
   background-color: #E6EAEE !important;
-  color: red !important;
+  color: #354052 !important;
 }
 
  .video-js .vjs-big-play-button {
   width: 98px;
   height: 98px;
-  background-color: red !important;
+  background-color: #2878E2 !important;
   border-radius: 50% !important;
   outline: none !important;
   border: 0 !important;
