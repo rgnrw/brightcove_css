@@ -35,6 +35,11 @@
   flex: 1 !important;
 }
 
+ .video-js .vjs-control-bar {
+  background-color: #E6EAEE !important;
+  color: #354052 !important;
+}
+
  .video-js .vjs-big-play-button {
   width: 98px;
   height: 98px;
@@ -42,6 +47,11 @@
   border-radius: 50% !important;
   outline: none !important;
   border: 0 !important;
+}
+
+ .vjs-icon-placeholder:before,
+.vjs-icon-play:before {
+  position: relative !important;
 }
 
  .vjs-volume-control .vjs-control .vjs-volume-horizontal {
@@ -55,17 +65,10 @@
 
 
 .video-js:hover .vjs-big-play-button {
-  background-color: #354052 !important;
+      background-color: #354052 !important;
 }
 
 
 .video-js .vjs-icon-placeholder:before{
   color: #fff !important;
 }
-
-.video-js .vjs-control-bar {
-  background-color: #e6eaee !important;
- color: #354052 !important;
-}
-
-
