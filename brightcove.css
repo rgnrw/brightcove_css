@@ -43,7 +43,7 @@
  .video-js .vjs-big-play-button {
   width: 98px;
   height: 98px;
-  background-color: #2878E2 !important;
+  background-color: red !important;
   border-radius: 50% !important;
   outline: none !important;
   border: 0 !important;
