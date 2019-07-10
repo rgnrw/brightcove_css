@@ -80,7 +80,7 @@ color: #354052 !important;
   color: #fff !important;
 }
 
-.video-js .vjs-volume-bar.vjs-slider-bar.vjs-slider.vjs-slider-horizontal
+.video-js .vjs-icon:placeholder
 {
  color: #354052 !important;
 }
