@@ -73,7 +73,7 @@
   color: #354052 !important;
 }
 
-.video-js .vjs-big-play-button>span.vjs-icon-placeholder:before
+.video-js .vjs-big-play-button .vjs-icon-placeholder:before
 {
 color: #ffffff !important;
 }
