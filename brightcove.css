@@ -73,7 +73,7 @@
   color: #354052 !important;
 }
 
-.video-js > button > span.vjs-icon-placeholder
+.video-js .vjs-big-play-button>span.vjs-icon-placeholder
 {
-color: #ffffff !important;
+color: #354052 !important;
 }
