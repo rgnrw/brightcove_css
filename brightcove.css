@@ -69,6 +69,6 @@
 }
 
 
-.video-js .vjs-play-icon:before{
-  color: #fffff !important;
+.video-js .vjs-icon-placeholder:before{
+  color: #fff !important;
 }
