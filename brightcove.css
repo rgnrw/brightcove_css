@@ -8,6 +8,11 @@
 .vjs-control-bar{
 color: #354052 !important;
 }
+
+.vjs-play-control vjs-control vjs-button vjs-paused
+{
+color: #354052 !important;
+}
  .video-js .vjs-progress-control {
   position: absolute !important;
   width: 100% !important;
