@@ -44,12 +44,6 @@
   border: 0 !important;
 }
 
- .vjs-icon-placeholder:before,
-.vjs-icon-play:before {
-  position: relative !important;
-  color: #354052 !important;
-}
-
  .vjs-volume-control .vjs-control .vjs-volume-horizontal {
   display: block !important;
 }
@@ -76,5 +70,11 @@
 
 .video-js .vjs-play-control .vjs-icon-placeholder:before
 {
+  color: #354052 !important;
+}
+
+ .vjs-icon-placeholder:before,
+.vjs-icon-play:before {
+  position: relative !important;
   color: #354052 !important;
 }
