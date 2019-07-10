@@ -69,8 +69,3 @@
 }
 
 
- .vjs-icon-placeholder:before,
-.vjs-icon-play:before {
-  position: relative !important;
-  color: #354052 !important;
-}
