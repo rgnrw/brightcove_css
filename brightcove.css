@@ -5,7 +5,9 @@
  .video-js .vjs-play-progress {
   background-color: #2878E2 !important;
 }
-
+.vjs-control-bar{
+color: #354052 !important;
+}
  .video-js .vjs-progress-control {
   position: absolute !important;
   width: 100% !important;
