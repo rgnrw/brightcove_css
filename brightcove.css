@@ -79,3 +79,8 @@ color: #354052 !important;
 .video-js .vjs-icon-placeholder:before{
   color: #fff !important;
 }
+
+.vjs-volume-bar.vjs-slider-bar.vjs-slider.vjs-slider-horizontal
+{
+ color: #354052 !important;
+}
