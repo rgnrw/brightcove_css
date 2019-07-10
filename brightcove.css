@@ -74,7 +74,7 @@
  color: #354052 !important;
 }
 
-.video-js .vjs-big-play-button .vjs-icon-placeholder:before, .video-js .vjs-play-control .vjs-icon-placeholder:before
+.video-js .vjs-play-control .vjs-icon-placeholder:before
 {
   color: #354052 !important;
 }
