@@ -63,7 +63,7 @@
   display: none !important;
 }
 
-.audio
-{
-  outline: none !important;
+
+.video-js:hover .vjs-big-play-button {
+      background-color: #354052 !important;
 }
