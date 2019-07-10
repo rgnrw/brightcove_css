@@ -5,9 +5,6 @@
  .video-js .vjs-play-progress {
   background-color: #2878E2 !important;
 }
-.vjs-control-bar{
-color: #354052 !important;
-}
 
 .video-js .vjs-play-control
 {
@@ -81,3 +78,8 @@ color: #354052 !important;
 {
   color: #354052 !important;
 }
+
+.video-js .vjs-control-bar{
+color: #354052 !important;
+}
+
