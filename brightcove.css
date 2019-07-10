@@ -6,12 +6,7 @@
   background-color: #2878E2 !important;
 }
 
-.video-js .vjs-play-control
-{
-color: #354052 !important;
-}
-
-.video-js .vjs-progress-control {
+ .video-js .vjs-progress-control {
   position: absolute !important;
   width: 100% !important;
   top: -0.3em !important;
@@ -40,6 +35,11 @@ color: #354052 !important;
   flex: 1 !important;
 }
 
+ .video-js .vjs-control-bar {
+  background-color: #E6EAEE !important;
+  color: #354052 !important;
+}
+
  .video-js .vjs-big-play-button {
   width: 98px;
   height: 98px;
@@ -54,6 +54,10 @@ color: #354052 !important;
   position: relative !important;
 }
 
+ .vjs-volume-control .vjs-control .vjs-volume-horizontal {
+  display: block !important;
+}
+
 
  .video-js .vjs-play-progress:before{
   display: none !important;
@@ -61,18 +65,10 @@ color: #354052 !important;
 
 
 .video-js:hover .vjs-big-play-button {
-  background-color: #354052 !important;
+      background-color: #354052 !important;
 }
 
 
 .video-js .vjs-icon-placeholder:before{
   color: #fff !important;
 }
-
-.video-js .vjs-control-bar {
-  background-color: #E6EAEE !important;
-  color: red !important;
-}
-
-
-
