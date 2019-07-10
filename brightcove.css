@@ -35,11 +35,6 @@
   flex: 1 !important;
 }
 
- .video-js .vjs-control-bar {
-  background-color: #E6EAEE !important;
-  color: #354052 !important;
-}
-
  .video-js .vjs-big-play-button {
   width: 98px;
   height: 98px;
@@ -71,4 +66,9 @@
 
 .video-js .vjs-icon-placeholder:before{
   color: #fff !important;
+}
+
+.video-js .vjs-control-bar {
+  background-color: #E6EAEE !important;
+  color: #354052 !important;
 }
