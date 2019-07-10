@@ -57,11 +57,6 @@ color: #354052 !important;
   position: relative !important;
 }
 
- .vjs-volume-control .vjs-control .vjs-volume-horizontal {
-  display: block !important;
-    color: #354052 !important;
-}
-
 
  .video-js .vjs-play-progress:before{
   display: none !important;
