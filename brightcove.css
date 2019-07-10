@@ -9,7 +9,7 @@
 color: #354052 !important;
 }
 
-.vjs-play-control vjs-control vjs-button vjs-paused
+.video-js .vjs-play-control
 {
 color: #354052 !important;
 }
