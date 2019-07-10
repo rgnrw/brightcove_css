@@ -72,3 +72,8 @@
 .video-js .vjs-icon-placeholder:before{
   color: #354052 !important;
 }
+
+.video-js .vjs-big-play-button .vjs-icon-placeholder:before,
+{
+color: #fff !important;
+}
